@@ -13,4 +13,4 @@ Crypto wallet
 
 ## License
 
-[MIT](LICENSE.md)
+[MIT](LICENSE)
